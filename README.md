@@ -3,13 +3,13 @@ An Indian District Level Case Study
 
 This repository contains an academic research project that analyzes COVID 19 vaccine wastage across vaccination centers in Simdega district, Jharkhand, India. The study uses real vaccination data to identify operational inefficiencies, quantify wastage, and propose data driven interventions to improve vaccine utilization.
 
-Project Overview
+--Project Overview
 
 The objective of this study was to understand why vaccine wastage occurs at the ground level and how simple operational changes could significantly reduce it. The analysis focuses on open vial wastage, center performance, session size planning, and geographic optimization of vaccination centers.
 
 Using district level data from public vaccination dashboards, the project evaluates performance across 78 centers over a 16 day period and benchmarks wastage against the recommended 10 percent threshold.
 
-Key Highlights
+--Key Highlights
 
 • Analyzed vaccination data from all primary health centers in Simdega district
 • Quantified wastage, average wastage, and center level performance
@@ -21,21 +21,16 @@ Key Highlights
 • Mobile vaccination camp planning using geographic clustering
 • Estimated that approximately 4.45 percent of vaccines could have been saved per center over 16 days through improved planning
 
-Methodology
+--Methodology
 
-Root cause analysis using cause and effect diagrams
+1. Root cause analysis using cause and effect diagrams
+2. Data collection from public vaccination dashboards 
+3. Metric formulation for wastage and performance evaluation
+4. Exploratory data analysis and visualization
+5. Geographic mapping of vaccination centers
+6. Operational scenario modeling for center consolidation and mobile drives
 
-Data collection from public vaccination dashboards
-
-Metric formulation for wastage and performance evaluation
-
-Exploratory data analysis and visualization
-
-Geographic mapping of vaccination centers
-
-Operational scenario modeling for center consolidation and mobile drives
-
-Tools and Skills Used
+--Tools and Skills Used
 
 • Data analysis and interpretation
 • Excel based computation and trend analysis
